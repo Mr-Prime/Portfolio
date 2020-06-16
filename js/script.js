@@ -180,7 +180,7 @@ jQuery(function ($) {
             loop: true
         });
         personal.typeString('Android Developer').pauseFor(2500).deleteAll()
-            .typeString('Web Developer').pauseFor(2500).deleteAll()
+            .typeString('Flutter Developer').pauseFor(2500).deleteAll()
             .typeString('UI/UX Designer').start();
     }
 
